@@ -1,0 +1,1 @@
+This is a thread-pool implemented in C.
